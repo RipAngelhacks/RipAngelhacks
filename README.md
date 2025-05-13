@@ -1,16 +1,14 @@
 ## Hi there 👋
+## My name is Angel
+## 😄 Pronouns: He/Him
+## 🔭 I’m currently working on: Star, and Zenex
+## 🌱 I’m currently learning: HTML, JS, and CSS
+## 🤔 I’m looking for help with: Star
+## 👯 I’m looking to collaborate on: Any Project you or I have
+## 💬 Ask me about: Myself, Projects I made, and Learning how to program
+## 📫 How to reach me: My Work email is: Scaroontop@outlook.com **(I may be slow to respond)**
+## ⚡ Fun fact: I made over 5-10 projects on github
+✨ Made with love by Angel ✨ <br>
+![stats](https://github-readme-stats.vercel.app/api?username=RipAngelhacks&show_icons=true&theme=dark)
 
-<!--
-**RipAngelhacks/RipAngelhacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
