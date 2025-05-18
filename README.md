@@ -1,7 +1,8 @@
 ## Hi there 👋
 ## My name is Angel
 ## 😄 Pronouns: He/Him
-## 🔭 I’m currently working on: Star, and Zenex
+## 🔭 I’m currently working on: Star (A Unblocked games site), and Zenex (A Roblox Lua script cheat For now, I am not working on it.
+## 🔭 Future Projects: Nexus (A chatbot for people to use) and Solar (A static proxy for static hosts)
 ## 🌱 I’m currently learning: HTML, JS, and CSS
 ## 🤔 I’m looking for help with: Star
 ## 👯 I’m looking to collaborate on: Any Project you or I have
